@@ -31,7 +31,7 @@ Magefan_LoginAsCustomer,2.2.3,,https://github.com/magefan/module-login-as-custom
 Mageplaza_LayeredNavigation,2.3.6,,https://www.mageplaza.com/releases/layered-navigation/,https://www.mageplaza.com/magento-2-layered-navigation-extension/
 Magestore_Storelocator,1.0.2,,,https://blog.magestore.com/store-locator-extension-patch/
 Magestore_Storepickup,1.2.1,,,https://blog.magestore.com/store-locator-extension-patch/
-Mgt_Varnish,1.1.0,/mgtfeed/feed/update,,https://www.mgt-commerce.com/mgt-varnish-cache-for-magento-performance
+Mgt_Varnish,1.1.0,/mgtfeed/feed/update,https://sansec.io/research/mgt-varnish-critical-vulnerability,https://www.mgt-commerce.com/mgt-varnish-cache-for-magento-performance
 MiniOrange_IDPSaml,3.0.0,,https://commercemarketplace.adobe.com/miniorange-inc-idpsaml.html,https://commercemarketplace.adobe.com/miniorange-inc-idpsaml.html
 MiniOrange_SCIM,3.0.0,,https://commercemarketplace.adobe.com/miniorange-inc-scim.html,https://commercemarketplace.adobe.com/miniorange-inc-scim.html
 MiniOrange_SF,2.0.1,,https://commercemarketplace.adobe.com/miniorange-inc-miniorange-sf-sso.html,https://commercemarketplace.adobe.com/miniorange-inc-miniorange-sf-sso.html
