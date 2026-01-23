@@ -49,6 +49,7 @@ CommerceLab_News,,/clnews/,https://www.magecloud.net/marketplace/extension/news-
 CommerceLab_GreatNews,,/clnews/,https://www.magecloud.net/marketplace/extension/news-by-commercelab/,
 CommerceThemes_GuestToReg,,/GuestToReg/index/post/,https://twitter.com/gwillem/status/1065986386795380736,Abandoned
 dealer4dealer_xcore,2.2.1,/api/sales/order/info,https://github.com/dealer4dealer/magento1-soapapi/pull/35,https://github.com/dealer4dealer/magento1-soapapi/pull/35
+Elgentos_PrismicIO,4.1.3,,https://github.com/elgentos/magento2-prismicio/commit/53660929c8c595bfe7b78ba25f266d5a6e1a767d,https://elgentos.github.io/magento2-prismicio/
 EM_Ajaxcart,,,https://magento.com/security/vulnerabilities/sql-injection-vulnerability,https://www.emthemes.com/em-ajaxcart.html
 EM_AjaxProducts,1.0.0,/ajaxproducts/index/index,https://gwillem.gitlab.io/2018/10/23/magecart-extension-0days/,https://www.emthemes.com/free-magento-extensions/ajax-products-load-more-magento-extension.html
 EM_Multideal,,/multidealpro/index/edit/,https://gwillem.gitlab.io/2018/10/23/magecart-extension-0days/,https://www.emthemes.com/em-multideal.html
